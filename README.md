@@ -1,3 +1,8 @@
+# 📊 Data Analytics Internship Portfolio
+### ApexPlanet Software Pvt. Ltd.
+**Submitted by:** Pasumarthi Chandralekha
+
+
 📊 Data Analytics Internship Portfolio
 
 👋 About Me
