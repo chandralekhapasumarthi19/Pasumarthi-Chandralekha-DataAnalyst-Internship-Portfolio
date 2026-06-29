@@ -1,0 +1,41 @@
+OrderID,OrderDate,Product,Category,Region,Sales,Profit
+1,2025-01-05,Laptop,Technology,East,50000,10000
+2,2025-01-08,Mouse,Technology,West,800,200
+3,2025-01-10,Saree,Fashion,South,2500,600
+4,2025-01-12,Shoes,Fashion,North,3500,900
+5,2025-01-15,Chair,Furniture,East,3000,500
+6,2025-01-18,Table,Furniture,West,7000,1200
+7,2025-01-20,Mixer,Home Appliances,South,4500,1000
+8,2025-01-25,Refrigerator,Home Appliances,North,25000,5000
+9,2025-02-01,Mobile,Technology,East,28000,6000
+10,2025-02-05,Monitor,Technology,West,17000,3400
+11,2025-02-08,T-Shirt,Fashion,South,1800,400
+12,2025-02-12,Jeans,Fashion,North,2200,500
+13,2025-02-15,Sofa,Furniture,East,15000,3000
+14,2025-02-18,Cupboard,Furniture,West,20000,4000
+15,2025-02-20,Washing Machine,Home Appliances,South,22000,4500
+16,2025-02-25,AC,Home Appliances,North,35000,7000
+17,2025-03-02,Notebook,Stationery,East,500,100
+18,2025-03-05,Pen Set,Stationery,West,300,80
+19,2025-03-08,Printer,Technology,South,9000,1800
+20,2025-03-12,Keyboard,Technology,North,1500,400
+21,2025-03-15,Jewelry,Fashion,East,12000,2500
+22,2025-03-18,Handbag,Fashion,West,4500,1000
+23,2025-03-20,Bed,Furniture,South,18000,3500
+24,2025-03-25,Dining Table,Furniture,North,22000,4200
+25,2025-04-01,Microwave,Home Appliances,East,12000,2500
+26,2025-04-05,Water Purifier,Home Appliances,West,8000,1600
+27,2025-04-08,Books,Stationery,South,1000,200
+28,2025-04-12,Calculator,Stationery,North,700,150
+29,2025-04-15,Laptop,Technology,East,55000,11000
+30,2025-04-18,Mobile,Technology,West,30000,6500
+31,2025-05-02,Saree,Fashion,South,3000,700
+32,2025-05-05,Shoes,Fashion,North,4000,1000
+33,2025-05-08,Sofa,Furniture,East,16000,3200
+34,2025-05-12,Chair,Furniture,West,3500,600
+35,2025-05-15,AC,Home Appliances,South,37000,7500
+36,2025-05-18,Mixer,Home Appliances,North,5000,1200
+37,2025-06-01,Pen Set,Stationery,East,350,90
+38,2025-06-05,Books,Stationery,West,1200,250
+39,2025-06-08,Printer,Technology,South,10000,2100
+40,2025-06-12,Monitor,Technology,North,18000,3600
